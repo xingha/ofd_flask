@@ -1,0 +1,16 @@
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.PDF
+*.ofd
+ch_PP-OCRv2_det_infer/
+ch_PP-OCRv2_rec_infer/
+ch_ppocr_mobile_v2.0_cls_infer/
+model/
+myocrinference/
+PPOCRLabel/
+*.tar
+augment-data/
+*.zip
+22/
