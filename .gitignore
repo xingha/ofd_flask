@@ -14,3 +14,4 @@ PPOCRLabel/
 augment-data/
 *.zip
 22/
+.gitignore
